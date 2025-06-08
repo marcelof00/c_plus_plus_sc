@@ -97,7 +97,6 @@ int main()
     cudaFree(d_A);
     cudaFree(d_B);
     cudaFree(d_C);
-    _
 
-        return 0;
+    return 0;
 }
