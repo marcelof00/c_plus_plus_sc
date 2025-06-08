@@ -1,8 +1,3 @@
-// Project: VOIP Gatekeeper Simulation in C++
-// Author: Marcelo Fernandez
-// Description: This program simulates a simplified SIP gatekeeper for managing VoIP sessions.
-// It demonstrates socket programming, session tracking, and lightweight memory/resource control.
-
 #include <iostream>
 #include <string>
 #include <unordered_map>
